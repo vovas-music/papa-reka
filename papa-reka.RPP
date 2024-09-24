@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "7.07/macOS-arm64" 1727179874
+<REAPER_PROJECT 0.1 "7.07/macOS-arm64" 1727180069
   <NOTES 0 2
   >
   RIPPLE 0
@@ -16,9 +16,9 @@
   TIMEMODE 1 5 -1 30 0 0 -1
   VIDEO_CONFIG 0 0 256
   PANMODE 3
-  CURSOR 0
-  ZOOM 0.73924322265916 0 0
-  VZOOMEX 6 0
+  CURSOR 2480
+  ZOOM 0.73924322265916 874 0
+  VZOOMEX 6 459
   USE_REC_CFG 0
   RECMODE 1
   SMPTESYNC 0 30 100 40 1000 300 0 0 1 0 0
@@ -550,14 +550,14 @@
       SEL 1
       IGUID {EB57EF1A-439F-8540-A5E3-9742C0AA25D6}
       IID 10
-      NAME salman.flac
+      NAME salman-imported.flac
       VOLPAN 1 0 1 -1
       SOFFS 0
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
       GUID {0861B6F0-674C-414D-A64F-3343BA15717F}
       <SOURCE FLAC
-        FILE "Media/salman.flac"
+        FILE "Media/salman-imported.flac"
       >
     >
   >
